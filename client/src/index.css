@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap");
+
+
+html,
+body,
+#root,
+.app {
+  height: 100%;
+  width: 100%;
+  font-family: "Inter", sans-serif;
+}
+
+/* 
+
+.xyz {
+  background-color: aqua;
+}
+
+.xyz::-webkit-scrollbar {
+  display: none;
+} */
+/* 
+.css-15b8vjn-MuiPaper-root-MuiDrawer-paper::-webkit-scrollbar{
+  display: none;
+} */
