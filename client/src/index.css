@@ -10,6 +10,11 @@ body,
   font-family: "Inter", sans-serif;
 }
 
+body::-webkit-scrollbar{
+  display: none;
+  /* color: black; */
+}
+
 /* 
 
 .xyz {
@@ -19,7 +24,7 @@ body,
 .xyz::-webkit-scrollbar {
   display: none;
 } */
-/* 
+
 .css-15b8vjn-MuiPaper-root-MuiDrawer-paper::-webkit-scrollbar{
   display: none;
-} */
+}
